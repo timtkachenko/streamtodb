@@ -1,0 +1,10 @@
+.idea
+vendor
+
+build/*
+
+*.log
+
+
+/.env.local
+tmp

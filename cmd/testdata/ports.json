@@ -1,0 +1,36 @@
+{
+  "AEAJM": {
+    "name": "Ajman",
+    "city": "Ajman",
+    "country": "United Arab Emirates",
+    "alias": [],
+    "regions": [],
+    "coordinates": [
+      55.5136433,
+      25.4052165
+    ],
+    "province": "Ajman",
+    "timezone": "Asia/Dubai",
+    "unlocs": [
+      "AEAJM"
+    ],
+    "code": "52000"
+  },
+  "ZWUTA": {
+    "name": "Mutare",
+    "city": "Mutare",
+    "country": "Zimbabwe",
+    "alias": [],
+    "regions": [],
+    "coordinates": [
+      32.650351,
+      -18.9757714
+    ],
+    "province": "Manicaland",
+    "timezone": "Africa/Harare",
+    "unlocs": [
+      "ZWUTA"
+    ],
+    "code": "520001"
+  }
+}
